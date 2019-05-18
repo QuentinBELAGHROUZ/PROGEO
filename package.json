@@ -19,6 +19,6 @@
         "vue": "^2.5.7"
     },
     "dependencies": {
-        "sweetalert2": "^8.5.0"
+        "sweetalert2": "^8.11.1"
     }
 }
